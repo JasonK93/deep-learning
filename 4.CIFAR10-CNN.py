@@ -16,7 +16,6 @@
 
 import time
 
-# import cifar10
 import numpy as np
 import tensorflow as tf
 from extra_package import cifar10_input, cifar10
